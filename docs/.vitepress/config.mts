@@ -6,6 +6,7 @@ export default defineConfig({
   lang: 'zh-CN',
   lastUpdated: true,
   cleanUrls: true,
+  appearance: true,
 
   head: [
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],

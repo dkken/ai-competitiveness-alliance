@@ -5,8 +5,7 @@ docs/.vitepress/cache/
 *.log
 
 # 项目规划文档（非课件内容，不对外发布）
-course-production-plan.md
-org-building-plan.md
+internal/
 
 # IDE/编辑器配置
 .vscode/
