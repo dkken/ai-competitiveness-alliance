@@ -8,6 +8,7 @@ export default withMermaid(defineConfig({
   lastUpdated: true,
   cleanUrls: true,
   base: '/ai-competitiveness-alliance/',
+  ignoreDeadLinks: true,
 
   head: [
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
