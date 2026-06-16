@@ -1,6 +1,6 @@
 # 🚀 AI竞争力提升计划
 
-面向所有专业大学生的**零门槛**AI实战课程 —— 不需要编程基础，4周上手AI工具，就业创业双轨并行。
+各专业大学生的**零门槛**AI实战课程 —— 不需要编程基础，4周上手AI工具，就业创业双轨并行。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
 [![Content: CC BY-SA 4.0](https://img.shields.io/badge/Content-CC%20BY--SA%204.0-blue.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
@@ -37,7 +37,7 @@ AI通用能力      就业轨 / 创业轨      超级个体进阶
 ### 本地运行
 
 ```bash
-git clone https://github.com/ai-competitiveness-alliance/ai-competitiveness-alliance.git
+git clone https://github.com/dkken/ai-competitiveness-alliance.git
 cd ai-competitiveness-alliance
 npm install
 npm run docs:dev
@@ -49,7 +49,7 @@ npm run docs:dev
 
 我们是一个**去中心化社区**，欢迎任何形式的贡献：
 
-- 🐛 发现错误或过时内容？[提交 Issue](https://github.com/ai-competitiveness-alliance/course/issues)
+- 🐛 发现错误或过时内容？[提交 Issue](https://github.com/dkken/ai-competitiveness-alliance/issues)
 - ✍️ 想改进课件？Fork → 修改 → 提交 PR
 - 🎓 想成为校园大使？查看 [CONTRIBUTING.md](CONTRIBUTING.md)
 - 💬 想加入社区？见下方联系方式

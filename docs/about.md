@@ -2,7 +2,7 @@
 
 ## 课程定位
 
-**AI竞争力提升计划** 是一个面向所有专业大学生的免费 AI 实战课程。
+**AI竞争力提升计划** 是一个各专业大学生都能学习的免费 AI 实战课程。
 
 我们的核心信念是：**AI 不应该只是计算机专业学生的专属工具，而应该是所有专业学生提升竞争力的通用能力。**
 
@@ -34,7 +34,7 @@
 - **高校内部OPC项目**（兰交大/北物资/南京训练营）：仅限本校或本市学生，不对外开放
 - **海外免费课程**（吴恩达/DeepLearning.AI/fast.ai）：要么纯认知启蒙不教实操，要么需要Python
 
-**我们的课程填补了这个空白：面向所有专业 · 零代码零数学 · 就业+创业双轨 · 完全免费 · 100+小时深度实战。**
+**我们的课程填补了这个空白：不限专业 · 零代码零数学 · 就业+创业双轨 · 完全免费 · 100+小时深度实战。**
 
 ## 课程特色
 
@@ -74,7 +74,7 @@
 
 ### 课时设计的市场依据
 
-我们调研了14个国内外AI课程的课时设计，确保本课程的100-120小时在"内容充实度"和"学习可行性"之间取得最优平衡。详见 [课程大纲 v2.1 第1.3节](https://github.com/ai-competitiveness-alliance/ai-competitiveness-alliance/blob/main/course-syllabus.md#13-%E5%90%8C%E7%B1%BB%E8%AF%BE%E7%A8%8B%E8%AF%BE%E6%97%B6%E5%AF%B9%E6%AF%94)。
+我们调研了14个国内外AI课程的课时设计，确保本课程的100-120小时在"内容充实度"和"学习可行性"之间取得最优平衡。从纯认知启蒙（6小时）到编程工程师课程（400+小时），100-120小时的零代码实战课程在市场上属于独特定位。
 
 ## 对标行业标准
 
@@ -113,12 +113,12 @@
 ## 许可证
 
 - 课程内容：[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-- 网站代码：[MIT License](https://github.com/ai-competitiveness-alliance/ai-competitiveness-alliance/blob/main/LICENSE)
+- 网站代码：[MIT License](https://github.com/dkken/ai-competitiveness-alliance/blob/main/LICENSE)
 
 ## 联系我们
 
 - **课程网站**：本网站
-- **GitHub**：[ai-competitiveness-alliance](https://github.com/ai-competitiveness-alliance)
+- **GitHub**：[dkken/ai-competitiveness-alliance](https://github.com/dkken/ai-competitiveness-alliance)
 - **社区**：微信群（请联系校园大使加入）
 
 ---

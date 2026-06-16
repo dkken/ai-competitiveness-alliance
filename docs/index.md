@@ -4,7 +4,7 @@ layout: home
 hero:
   name: "AI竞争力提升计划"
   text: "零门槛，双轨并行"
-  tagline: 面向所有专业大学生的AI实战课程——就业竞争力和创业力，你总要有一个
+  tagline: 各专业大学生的AI实战课程——就业竞争力和创业力，你总要有一个
   image:
     src: /logo.svg
     alt: AI竞争力提升计划
@@ -13,7 +13,7 @@ hero:
       text: 开始学习
       link: /phase1/
     - theme: alt
-      text: 课程大纲
+      text: 关于课程
       link: /about
 
 features:

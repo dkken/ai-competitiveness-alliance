@@ -121,7 +121,7 @@ export default withMermaid(defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/ai-competitiveness-alliance/course' }
+      { icon: 'github', link: 'https://github.com/dkken/ai-competitiveness-alliance' }
     ],
 
     footer: {
@@ -157,7 +157,7 @@ export default withMermaid(defineConfig({
     },
 
     editLink: {
-      pattern: 'https://github.com/ai-competitiveness-alliance/course/edit/main/docs/:path',
+      pattern: 'https://github.com/dkken/ai-competitiveness-alliance/edit/main/docs/:path',
       text: '在 GitHub 上编辑此页'
     },
 
