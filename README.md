@@ -10,16 +10,16 @@
 ## 📖 课程路径
 
 ```
-第一阶段（4周）→ 第二阶段（4周）→ 第三阶段（2周）
+第一阶段（4周）→ 第二阶段（4周）→ 第三阶段（3周）
 AI通用能力      就业轨 / 创业轨      超级个体进阶
 ```
 
 | 阶段 | 内容 | 时间 | 核心产出 |
 |------|------|------|---------|
-| [第一阶段](https://xxx.pages.dev/phase1/) | 零基础上手AI，构建Prompt能力 | 第1-4周 | AI工具矩阵 + Prompt模板库 |
-| [第二阶段就业轨](https://xxx.pages.dev/phase2/) | AI求职全流程优化 | 第5-8周 | 简历作品集 + 个人网站 |
-| [第二阶段创业轨](https://xxx.pages.dev/phase2/) | Vibe Coding + AI营销 | 第5-8周 | 上线MVP产品 |
-| [第三阶段](https://xxx.pages.dev/phase3/) | AI自动化 + 终身学习 | 第9-10周 | 自动化工作流 |
+| [第一阶段](https://ai-competitiveness-alliance.pages.dev/phase1/) | 零基础上手AI，构建Prompt能力 | 第1-4周 | AI工具矩阵 + Prompt模板库 |
+| [第二阶段就业轨](https://ai-competitiveness-alliance.pages.dev/phase2/) | AI求职全流程优化 | 第5-8周 | 简历作品集 + 个人网站 |
+| [第二阶段创业轨](https://ai-competitiveness-alliance.pages.dev/phase2/) | Vibe Coding + AI营销 | 第5-8周 | 上线MVP产品 |
+| [第三阶段](https://ai-competitiveness-alliance.pages.dev/phase3/) | AI自动化 + 终身学习 | 第9-11周 | 自动化工作流 + AI智能体 |
 
 ## 🎯 适合谁学？
 
@@ -32,13 +32,13 @@ AI通用能力      就业轨 / 创业轨      超级个体进阶
 
 ### 在线学习
 
-打开课程网站开始学习：**https://xxx.pages.dev**
+打开课程网站开始学习：**https://ai-competitiveness-alliance.pages.dev**
 
 ### 本地运行
 
 ```bash
-git clone https://github.com/ai-competitiveness-alliance/course.git
-cd course
+git clone https://github.com/ai-competitiveness-alliance/ai-competitiveness-alliance.git
+cd ai-competitiveness-alliance
 npm install
 npm run docs:dev
 ```

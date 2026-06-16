@@ -74,7 +74,7 @@
 
 ### 课时设计的市场依据
 
-我们调研了14个国内外AI课程的课时设计，确保本课程的100-120小时在"内容充实度"和"学习可行性"之间取得最优平衡。详见 [课程大纲 v2.1 第1.3节](https://github.com/ai-competitiveness-alliance/ai-competitiveness-alliance/blob/main/course-syllabus.md#13-同类课程课时对比)。
+我们调研了14个国内外AI课程的课时设计，确保本课程的100-120小时在"内容充实度"和"学习可行性"之间取得最优平衡。详见 [课程大纲 v2.1 第1.3节](https://github.com/ai-competitiveness-alliance/ai-competitiveness-alliance/blob/main/course-syllabus.md#13-%E5%90%8C%E7%B1%BB%E8%AF%BE%E7%A8%8B%E8%AF%BE%E6%97%B6%E5%AF%B9%E6%AF%94)。
 
 ## 对标行业标准
 

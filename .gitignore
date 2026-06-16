@@ -6,7 +6,6 @@ docs/.vitepress/cache/
 
 # 项目规划文档（非课件内容，不对外发布）
 course-production-plan.md
-course-syllabus.md
 org-building-plan.md
 
 # IDE/编辑器配置
