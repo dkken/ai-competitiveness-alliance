@@ -7,6 +7,7 @@ export default withMermaid(defineConfig({
   lang: 'zh-CN',
   lastUpdated: true,
   cleanUrls: true,
+  base: '/ai-competitiveness-alliance/',
 
   head: [
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
