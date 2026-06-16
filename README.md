@@ -1,6 +1,6 @@
 # 🚀 AI竞争力提升计划
 
-各专业大学生的**零门槛**AI实战课程 —— 不需要编程基础，4周上手AI工具，就业创业双轨并行。
+不限专业学AI，求职创业两手抓 —— 零门槛实战课程，4周上手AI工具。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
 [![Content: CC BY-SA 4.0](https://img.shields.io/badge/Content-CC%20BY--SA%204.0-blue.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
@@ -16,10 +16,10 @@ AI通用能力      就业轨 / 创业轨      超级个体进阶
 
 | 阶段 | 内容 | 时间 | 核心产出 |
 |------|------|------|---------|
-| [第一阶段](https://ai-competitiveness-alliance.pages.dev/phase1/) | 零基础上手AI，构建Prompt能力 | 第1-4周 | AI工具矩阵 + Prompt模板库 |
-| [第二阶段就业轨](https://ai-competitiveness-alliance.pages.dev/phase2/) | AI求职全流程优化 | 第5-8周 | 简历作品集 + 个人网站 |
-| [第二阶段创业轨](https://ai-competitiveness-alliance.pages.dev/phase2/) | Vibe Coding + AI营销 | 第5-8周 | 上线MVP产品 |
-| [第三阶段](https://ai-competitiveness-alliance.pages.dev/phase3/) | AI自动化 + 终身学习 | 第9-11周 | 自动化工作流 + AI智能体 |
+| [第一阶段](https://ai-ca.pages.dev/phase1/) | 零基础上手AI，构建Prompt能力 | 第1-4周 | AI工具矩阵 + Prompt模板库 |
+| [第二阶段就业轨](https://ai-ca.pages.dev/phase2/) | AI求职全流程优化 | 第5-8周 | 简历作品集 + 个人网站 |
+| [第二阶段创业轨](https://ai-ca.pages.dev/phase2/) | Vibe Coding + AI营销 | 第5-8周 | 上线MVP产品 |
+| [第三阶段](https://ai-ca.pages.dev/phase3/) | AI自动化 + 终身学习 | 第9-11周 | 自动化工作流 + AI智能体 |
 
 ## 🎯 适合谁学？
 
@@ -32,7 +32,7 @@ AI通用能力      就业轨 / 创业轨      超级个体进阶
 
 ### 在线学习
 
-打开课程网站开始学习：**https://ai-competitiveness-alliance.pages.dev**
+打开课程网站开始学习：**https://ai-ca.pages.dev**
 
 ### 本地运行
 
