@@ -52,7 +52,7 @@ npm run docs:dev
 - 🐛 发现错误或过时内容？[提交 Issue](https://github.com/dkken/ai-competitiveness-alliance/issues)
 - ✍️ 想改进课件？Fork → 修改 → 提交 PR
 - 🎓 想成为校园大使？查看 [CONTRIBUTING.md](CONTRIBUTING.md)
-- 💬 想加入社区？见下方联系方式
+- 💬 想加入社区？添加微信 **Eocetus**
 
 详见 [CONTRIBUTING.md](CONTRIBUTING.md)
 

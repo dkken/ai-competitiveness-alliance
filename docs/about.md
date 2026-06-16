@@ -119,7 +119,7 @@
 
 - **课程网站**：本网站
 - **GitHub**：[dkken/ai-competitiveness-alliance](https://github.com/dkken/ai-competitiveness-alliance)
-- **社区**：微信群（请联系校园大使加入）
+- **微信**：Eocetus
 
 ---
 [返回课程首页](/)
