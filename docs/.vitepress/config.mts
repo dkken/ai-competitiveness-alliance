@@ -7,7 +7,7 @@ export default withMermaid(defineConfig({
   lang: 'zh-CN',
   lastUpdated: true,
   cleanUrls: true,
-  base: '/ai-competitiveness-alliance/',
+  base: '/',
   ignoreDeadLinks: true,
 
   head: [
