@@ -1,12 +1,12 @@
 import { defineConfig } from 'vitepress'
+import { withMermaid } from 'vitepress-plugin-mermaid'
 
-export default defineConfig({
+export default withMermaid(defineConfig({
   title: 'AI竞争力提升计划',
   description: '面向所有专业大学生的零门槛AI实战课程',
   lang: 'zh-CN',
   lastUpdated: true,
   cleanUrls: true,
-  appearance: true,
 
   head: [
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
@@ -194,4 +194,4 @@ export default defineConfig({
       detailsLabel: '详情'
     }
   }
-})
+}))

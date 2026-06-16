@@ -4,7 +4,7 @@ docs/.vitepress/cache/
 .DS_Store
 *.log
 
-# 项目规划文档（非课件内容，不对外发布）
+# 内部设计文档（非课件内容，不对外发布）
 internal/
 
 # IDE/编辑器配置
