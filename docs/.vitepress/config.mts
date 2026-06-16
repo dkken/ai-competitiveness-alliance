@@ -7,8 +7,8 @@ export default withMermaid(defineConfig({
   lang: 'zh-CN',
   lastUpdated: true,
   cleanUrls: true,
-  base: '/',
-  ignoreDeadLinks: true,
+  base: process.env.DEPLOY_TARGET === 'github' ? '/ai-competitiveness-alliance/' : '/',
+  ignoreDeadLinks: [/.*/],
 
   head: [
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
