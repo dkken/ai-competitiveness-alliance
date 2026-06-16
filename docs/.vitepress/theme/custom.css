@@ -1,0 +1,101 @@
+/* AI竞争力提升计划 - 自定义主题 */
+
+:root {
+  --vp-c-brand-1: #6366f1;
+  --vp-c-brand-2: #818cf8;
+  --vp-c-brand-3: #4f46e5;
+  --vp-c-brand-soft: rgba(99, 102, 241, 0.14);
+
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: linear-gradient(135deg, #6366f1 0%, #a855f7 50%, #ec4899 100%);
+
+  --vp-button-brand-bg: #6366f1;
+  --vp-button-brand-hover-bg: #4f46e5;
+  --vp-button-brand-active-bg: #4338ca;
+
+  --vp-custom-block-tip-bg: rgba(99, 102, 241, 0.05);
+  --vp-custom-block-tip-border: #6366f1;
+  --vp-custom-block-warning-bg: rgba(251, 191, 36, 0.05);
+  --vp-custom-block-warning-border: #f59e0b;
+  --vp-custom-block-danger-bg: rgba(239, 68, 68, 0.05);
+  --vp-custom-block-danger-border: #ef4444;
+}
+
+/* 代码块样式优化 */
+.vp-code-group .tabs label {
+  font-size: 13px;
+}
+
+/* 复制按钮 - 对Prompt模板特别重要 */
+div[class*='language-'] .copy {
+  z-index: 10;
+}
+
+/* 首页自定义 */
+.VPHero .text {
+  font-size: 48px;
+  line-height: 1.2;
+}
+
+.VPHero .tagline {
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+/* 课程导航卡片样式 */
+.vp-doc .course-card {
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 12px;
+  padding: 24px;
+  margin: 16px 0;
+  transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+.vp-doc .course-card:hover {
+  border-color: var(--vp-c-brand-1);
+  box-shadow: 0 4px 12px rgba(99, 102, 241, 0.15);
+}
+
+/* 模块标签 */
+.module-tag {
+  display: inline-block;
+  padding: 2px 10px;
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: 600;
+  margin-right: 8px;
+}
+
+.module-tag.required {
+  background: rgba(239, 68, 68, 0.1);
+  color: #ef4444;
+}
+
+.module-tag.optional {
+  background: rgba(99, 102, 241, 0.1);
+  color: #6366f1;
+}
+
+.module-tag.advanced {
+  background: rgba(16, 185, 129, 0.1);
+  color: #10b981;
+}
+
+/* 时间标签 */
+.time-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  color: var(--vp-c-text-2);
+  font-size: 14px;
+}
+
+/* 响应式 */
+@media (max-width: 768px) {
+  .VPHero .text {
+    font-size: 32px;
+  }
+  .VPHero .tagline {
+    font-size: 16px;
+  }
+}
