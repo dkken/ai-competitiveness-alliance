@@ -42,7 +42,7 @@
 | AI工具 | ChatGPT、DeepSeek、Kimi、Claude（至少3个） |
 | 办公工具 | 飞书（含飞书妙记）/ 腾讯会议（含AI纪要）/ 通义听悟（至少1个） |
 | 数据工具 | WPS AI（wps.cn）或 腾讯文档AI |
-| PPT工具 | Gamma（gamma.app）或 美图AI PPT（xiu.mt.com）或 WPS AI PPT |
+| PPT工具 | Gamma（gamma.app）或 美图AI PPT（design.meitu.com/ppt）或 WPS AI PPT |
 | 项目管理 | 飞书多维表格/Notion AI（至少1个） |
 | 素材 | 准备一段真实的会议录音（或网上找一段播客/演讲） |
 | 预计时间 | 学习约3小时 + 实操约5小时 |

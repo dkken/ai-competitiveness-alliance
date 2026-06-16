@@ -189,7 +189,7 @@ AI可以单独处理文本、图像、代码、数据——但跨领域的合成
 
 **推荐稍后读工具**：
 - **Cubox**（cubox.pro）：中文最佳，支持微信/浏览器/手动多种收藏方式，有AI摘要功能
-- **Omnivore**（omnivore.app）：开源免费，支持Newsletter订阅、RSS、高亮标注
+- **Readwise Reader**（readwise.io/read）：支持Newsletter订阅、RSS、高亮标注、AI摘要，免费版30天试用
 - **Raindrop.io**：书签管理，支持全文搜索和AI标签
 
 ---

@@ -4,6 +4,29 @@
 
 格式基于 [Keep a Changelog](https://keepachangelog.com/zh-CN/1.0.0/)，版本号遵循 [语义化版本](https://semver.org/lang/zh-CN/)。
 
+## [v0.3.1] - 2026-06-16
+
+### 新增
+- 课程大纲 v2.1：新增同类课程课时对比分析（1.3节），为周期与内容设计提供市场数据支撑
+- 大幅扩充 Phase 1 index（41行→92行）：新增模块关系图、学习成果总结、常见误区
+- 大幅扩充 Phase 2 index（49行→124行）：新增就业轨vs创业轨对比、学习路径图、选择建议
+- 大幅扩充 Phase 3 index（51行→122行）：新增模块关系图、阶段特点对比、课程设计依据
+- 大幅扩充 about.md（42行→125行）：新增数据总览、市场空白分析、行业标准对标、适用人群说明
+
+### 修复
+- 修复所有11个模块课件中的腾讯文档作业链接占位符（18处），改为"课程开始前通过群公布"
+- 修复 module6a 美图AI PPT网址错误：xiu.mt.com → design.meitu.com/ppt
+- 修复 module6b Vibe Coding工具模型描述：更新Cursor和Trae底层模型至2026年最新版本
+- 修复 module6b GitHub Octoverse年份：2026→2025（Octoverse报告年底发布）
+- 修复 module7b 秘塔AI搜索月活数据：删除无法验证的"5000万"具体数字
+- 修复 module9 n8n GitHub Stars数据：50k→188k（2026年6月最新数据）
+- 修复 module11 Omnivore工具推荐：替换为Readwise Reader（Omnivore已于2024年11月关停）
+- 修复 Phase 2 index就业轨课时：32h→36h（与各模块实际课时之和一致）
+
+### 数据验证
+- 三个并行审查代理完成了全部13个课件文件的全面检查
+- 验证了各文件的工具名称、网址、数据来源、课程安排一致性和内部链接有效性
+
 ## [v0.3.0] - 2026-06-16
 
 ### 新增
